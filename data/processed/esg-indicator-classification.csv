@@ -1,0 +1,196 @@
+Indicator code,Indicator name,Pillar
+AG.LND.AGRI.ZS,Agricultural land (% of land area),E
+AG.LND.FRST.ZS,Forest area (% of land area),E
+AG.PRD.FOOD.XD,Food production index (2014-2016 = 100),E
+AG.SRF.TOTL.K2,Surface area (sq. km),E
+CC.EST,Control of Corruption: Estimate,Unknown
+EG.CFT.ACCS.ZS,Access to clean fuels and technologies for cooking  (% of population),E
+EG.EGY.PRIM.PP.KD,Energy intensity level of primary energy (MJ/$2021 PPP GDP),E
+EG.ELC.ACCS.RU.ZS,"Access to electricity, rural (% of rural population)",E
+EG.ELC.ACCS.ZS,Access to electricity (% of population),E
+EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),E
+EG.ELC.RNEW.ZS,Renewable electricity output (% of total electricity output),E
+EG.FEC.RNEW.ZS,Renewable energy consumption (% of total final energy consumption),E
+EG.IMP.CONS.ZS,"Energy imports, net (% of energy use)",E
+EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),E
+EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),E
+EN.ATM.PM25.MC.M3,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",E
+EN.GHG.ALL.LU.MT.CE.AR5,Total greenhouse gas emissions including LULUCF (Mt CO2e),E
+EN.GHG.ALL.MT.CE.AR5,Total greenhouse gas emissions excluding LULUCF (Mt CO2e),E
+EN.GHG.ALL.PC.CE.AR5,Total greenhouse gas emissions per capita excluding LULUCF (t CO2e/capita),E
+EN.GHG.CH4.AG.MT.CE.AR5,Methane (CH4) emissions from Agriculture (Mt CO2e),E
+EN.GHG.CH4.BU.MT.CE.AR5,Methane (CH4) emissions from Building (Energy) (Mt CO2e),E
+EN.GHG.CH4.FE.MT.CE.AR5,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),E
+EN.GHG.CH4.IC.MT.CE.AR5,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),E
+EN.GHG.CH4.IP.MT.CE.AR5,Methane (CH4) emissions from Industrial Processes (Mt CO2e),E
+EN.GHG.CH4.MT.CE.AR5,Methane (CH4) emissions (total) excluding LULUCF (Mt CO2e),E
+EN.GHG.CH4.PI.MT.CE.AR5,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),E
+EN.GHG.CH4.TR.MT.CE.AR5,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),E
+EN.GHG.CH4.WA.MT.CE.AR5,Methane (CH4) emissions from Waste (Mt CO2e),E
+EN.GHG.CH4.ZG.AR5,Methane (CH4) emissions (total) excluding LULUCF (% change from 1990),E
+EN.GHG.CO2.AG.MT.CE.AR5,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),E
+EN.GHG.CO2.BU.MT.CE.AR5,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),E
+EN.GHG.CO2.FE.MT.CE.AR5,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),E
+EN.GHG.CO2.IC.MT.CE.AR5,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),E
+EN.GHG.CO2.IP.MT.CE.AR5,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),E
+EN.GHG.CO2.LU.DF.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Deforestation (Mt CO2e),E
+EN.GHG.CO2.LU.FL.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Forest Land (Mt CO2e),E
+EN.GHG.CO2.LU.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Total excluding non-tropical fires (Mt CO2e),E
+EN.GHG.CO2.LU.OL.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Other Land (Mt CO2e),E
+EN.GHG.CO2.LU.OS.MT.CE.AR5,Carbon dioxide (CO2) net fluxes from LULUCF - Organic Soil (Mt CO2e),E
+EN.GHG.CO2.MT.CE.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (Mt CO2e),E
+EN.GHG.CO2.PC.CE.AR5,Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita),E
+EN.GHG.CO2.PI.MT.CE.AR5,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),E
+EN.GHG.CO2.RT.GDP.KD,Carbon intensity of GDP (kg CO2e per constant 2021 US$ of GDP),E
+EN.GHG.CO2.RT.GDP.PP.KD,Carbon intensity of GDP (kg CO2e per 2021 PPP $),E
+EN.GHG.CO2.TR.MT.CE.AR5,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),E
+EN.GHG.CO2.WA.MT.CE.AR5,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),E
+EN.GHG.CO2.ZG.AR5,Carbon dioxide (CO2) emissions (total) excluding LULUCF (% change from 1990),E
+EN.GHG.FGAS.IP.MT.CE.AR5,Fluorinated greenhouse gases (F-gases) emissions from Industrial Processes (Mt CO2e),E
+EN.GHG.N2O.AG.MT.CE.AR5,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),E
+EN.GHG.N2O.BU.MT.CE.AR5,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),E
+EN.GHG.N2O.FE.MT.CE.AR5,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),E
+EN.GHG.N2O.IC.MT.CE.AR5,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),E
+EN.GHG.N2O.IP.MT.CE.AR5,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),E
+EN.GHG.N2O.MT.CE.AR5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (Mt CO2e),E
+EN.GHG.N2O.PI.MT.CE.AR5,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),E
+EN.GHG.N2O.TR.MT.CE.AR5,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),E
+EN.GHG.N2O.WA.MT.CE.AR5,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),E
+EN.GHG.N2O.ZG.AR5,Nitrous oxide (N2O) emissions (total) excluding LULUCF (% change from 1990),E
+EN.GHG.TOT.ZG.AR5,Total greenhouse gas emissions excluding LULUCF (% change from 1990),E
+EN.MAM.THRD.NO,"Mammal species, threatened",E
+EN.POP.DNST,Population density (people per sq. km of land area),E
+ER.H2O.FWST.ZS,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,E
+ER.H2O.FWTL.ZS,"Annual freshwater withdrawals, total (% of internal resources)",E
+ER.PTD.TOTL.ZS,Terrestrial and marine protected areas (% of total territorial area),E
+FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual % growth)",Unknown
+GB.XPD.RSDV.GD.ZS,Research and development expenditure (% of GDP),G
+GE.EST,Government Effectiveness: Estimate,Unknown
+HD.HCI.OVRL,Human capital index (HCI) (scale 0-1),S
+IP.JRN.ARTC.SC,Scientific and technical journal articles,Unknown
+IP.PAT.RESD,"Patent applications, residents",Unknown
+IT.NET.USER.ZS,Individuals using the Internet (% of population),E
+NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)",E
+NY.ADJ.DFOR.GN.ZS,"Adjusted savings, net forest depletion (% of GNI)",E
+NY.ADJ.DRES.GN.ZS,"Adjusted savings, natural resources depletion (% of GNI)",E
+NY.GDP.MKTP.CD,GDP (current US$),E
+NY.GDP.MKTP.KD.ZG,GDP (annual % growth),E
+NY.GDP.PCAP.CD,GDP per capita (current US$),E
+PV.EST,Political Stability and Absence of Violence/Terrorism: Estimate,Unknown
+RL.EST,Rule of Law: Estimate,Unknown
+RQ.EST,Regulatory Quality: Estimate,Unknown
+SE.ADT.LITR.ZS,"Literacy rate, adult total (% of people ages 15 and above)",S
+SE.ENR.PRSC.FM.ZS,"School enrollment, primary and secondary (gross), gender parity index (GPI)",E
+SE.PRM.CMPT.ZS,"Primary completion rate, total (% of relevant age group)",S
+SE.PRM.ENRR,"School enrollment, primary (% gross)",E
+SE.XPD.TOTL.GB.ZS,"Government expenditure on education, total (% of government expenditure)",S
+SG.GEN.PARL.ZS,Proportion of seats held by women in national parliaments (%),E
+SH.DTH.COMM.ZS,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",S
+SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)",S
+SH.H2O.SMDW.ZS,People using safely managed drinking water services (% of population),S
+SH.MED.BEDS.ZS,"Hospital beds (per 1,000 people)",S
+SH.STA.SMSS.ZS,People using safely managed sanitation services (% of population),S
+SI.DST.FRST.20,Income share held by lowest 20%,Unknown
+SI.POV.DDAY,Poverty headcount ratio at $3.00 a day (2021 PPP) (% of population),Unknown
+SI.POV.GINI,Gini index,Unknown
+SI.POV.NAHC,Poverty headcount ratio at national poverty lines (% of population),Unknown
+SI.POV.UMIC,Poverty headcount ratio at $8.30 a day (2021 PPP) (% of population),G
+SI.SPR.PGAP,Prosperity gap (average shortfall from a prosperity standard of $28/day),S
+SL.TLF.0714.ZS,"Children in employment, total (% of children ages 7-14)",S
+SL.TLF.ACTI.ZS,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",S
+SL.TLF.CACT.FM.ZS,Ratio of female to male labor force participation rate (%) (modeled ILO estimate),S
+SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",S
+SM.POP.NETM,Net migration,S
+SN.ITK.DEFC.ZS,Prevalence of undernourishment (% of population),Unknown
+SP.DYN.LE00.IN,"Life expectancy at birth, total (years)",S
+SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)",S
+SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population),S
+SP.POP.GROW,Population growth (annual %),S
+SP.POP.TOTL,"Population, total",S
+SP.UWT.TFRT,Unmet need for contraception (% of married women ages 15-49),S
+VA.EST,Voice and Accountability: Estimate,Unknown
+NW.DOW.PC,Domestic comprehensive wealth per capita index (real chained 2019 US$),Unknown
+NW.DOW.TO,Domestic comprehensive wealth index (real chained 2019 US$),Unknown
+NW.HCA.FEMA.PC,"Human capital per capita, female (real chained 2019 US$)",Unknown
+NW.HCA.FEMA.TO,"Human capital, female (real chained 2019 US$)",Unknown
+NW.HCA.MALE.PC,"Human capital per capita, male (real chained 2019 US$)",Unknown
+NW.HCA.MALE.TO,"Human capital, male (real chained 2019 US$)",Unknown
+NW.HCA.PC,Human capital per capita (real chained 2019 US$),Unknown
+NW.HCA.TO,Human capital (real chained 2019 US$),Unknown
+NW.NCA.AGRI.PC,"Renewable natural capital per capita, agricultural land (real chained 2019 US$)",E
+NW.NCA.AGRI.TO,"Renewable natural capital, agricultural land (real chained 2019 US$)",E
+NW.NCA.FISH.PC,"Renewable natural capital per capita, fisheries (real chained 2019 US$)",S
+NW.NCA.FISH.TO,"Renewable natural capital, fisheries (real chained 2019 US$)",S
+NW.NCA.FSTC.PC,"Renewable natural capital per capita, forest recreation, hunting and fishing services (real chained 2019 US$)",Unknown
+NW.NCA.FSTC.TO,"Renewable natural capital, forest recreation, hunting and fishing services (real chained 2019 US$)",Unknown
+NW.NCA.FSTP.PC,"Renewable natural capital per capita, nonwood forest protection ecosystem services (real chained 2019 US$)",Unknown
+NW.NCA.FSTP.TO,"Renewable natural capital, nonwood forest protection ecosystem services (real chained 2019 US$)",Unknown
+NW.NCA.FSTW.PC,"Renewable natural capital per capita, forest water ecosystem services (real chained 2019 US$)",Unknown
+NW.NCA.FSTW.TO,"Renewable natural capital, forest water ecosystem services (real chained 2019 US$)",Unknown
+NW.NCA.FTIM.PC,"Renewable natural capital per capita, timber (real chained 2019 US$)",Unknown
+NW.NCA.FTIM.TO,"Renewable natural capital, timber (real chained 2019 US$)",Unknown
+NW.NCA.HYDR.PC,"Renewable natural capital per capita, hydropower energy (real chained 2019 US$)",Unknown
+NW.NCA.HYDR.TO,"Renewable natural capital, hydropower energy (real chained 2019 US$)",Unknown
+NW.NCA.MANG.PC,"Renewable natural capital per capita, mangroves (real chained 2019 US$)",Unknown
+NW.NCA.MANG.TO,"Renewable natural capital, mangroves (real chained 2019 US$)",Unknown
+NW.NCA.MBAU.PC,"Nonrenewable natural capital per capita, metals and minerals: bauxite (real chained 2019 US$)",Unknown
+NW.NCA.MBAU.TO,"Nonrenewable natural capital, metals and minerals: bauxite (real chained 2019 US$)",Unknown
+NW.NCA.MCOB.PC,"Nonrenewable natural capital per capita, metals and minerals: cobalt (real chained 2019 US$)",Unknown
+NW.NCA.MCOB.TO,"Nonrenewable natural capital, metals and minerals: cobalt (real chained 2019 US$)",Unknown
+NW.NCA.MCOP.PC,"Nonrenewable natural capital per capita, metals and minerals: copper (real chained 2019 US$)",Unknown
+NW.NCA.MCOP.TO,"Nonrenewable natural capital, metals and minerals: copper (real chained 2019 US$)",Unknown
+NW.NCA.MGOL.PC,"Nonrenewable natural capital per capita, metals and minerals: gold (real chained 2019 US$)",Unknown
+NW.NCA.MGOL.TO,"Nonrenewable natural capital, metals and minerals: gold (real chained 2019 US$)",Unknown
+NW.NCA.MINR.PC,"Nonrenewable natural capital per capita, metals and minerals, sub-index, total (real chained 2019 US$)",Unknown
+NW.NCA.MINR.TO,"Nonrenewable natural capital, metals and minerals, sub-index, total (real chained 2019 US$)",Unknown
+NW.NCA.MIRO.PC,"Nonrenewable natural capital per capita, metals and minerals: iron ore (real chained 2019 US$)",Unknown
+NW.NCA.MIRO.TO,"Nonrenewable natural capital, metals and minerals: iron ore (real chained 2019 US$)",Unknown
+NW.NCA.MLEA.PC,"Nonrenewable natural capital per capita, metals and minerals: lead (real chained 2019 US$)",Unknown
+NW.NCA.MLEA.TO,"Nonrenewable natural capital, metals and minerals: lead (real chained 2019 US$)",Unknown
+NW.NCA.MLIT.PC,"Nonrenewable natural capital per capita, metals and minerals: lithium (real chained 2019 US$)",Unknown
+NW.NCA.MLIT.TO,"Nonrenewable natural capital, metals and minerals: lithium (real chained 2019 US$)",Unknown
+NW.NCA.MMOL.PC,"Nonrenewable natural capital per capita, metals and minerals: molybdenum (real chained 2019 US$)",Unknown
+NW.NCA.MMOL.TO,"Nonrenewable natural capital, metals and minerals: molybdenum (real chained 2019 US$)",Unknown
+NW.NCA.MNIC.PC,"Nonrenewable natural capital per capita, metals and minerals: nickel (real chained 2019 US$)",G
+NW.NCA.MNIC.TO,"Nonrenewable natural capital, metals and minerals: nickel (real chained 2019 US$)",G
+NW.NCA.MPHO.PC,"Nonrenewable natural capital per capita, metals and minerals: phosphate (real chained 2019 US$)",Unknown
+NW.NCA.MPHO.TO,"Nonrenewable natural capital, metals and minerals: phosphate (real chained 2019 US$)",Unknown
+NW.NCA.MSIL.PC,"Nonrenewable natural capital per capita, metals and minerals: silver (real chained 2019 US$)",G
+NW.NCA.MSIL.TO,"Nonrenewable natural capital, metals and minerals: silver (real chained 2019 US$)",G
+NW.NCA.MTIN.PC,"Nonrenewable natural capital per capita, metals and minerals: tin (real chained 2019 US$)",Unknown
+NW.NCA.MTIN.TO,"Nonrenewable natural capital, metals and minerals: tin (real chained 2019 US$)",Unknown
+NW.NCA.MZIN.PC,"Nonrenewable natural capital per capita, metals and minerals: zinc (real chained 2019 US$)",Unknown
+NW.NCA.MZIN.TO,"Nonrenewable natural capital, metals and minerals: zinc (real chained 2019 US$)",Unknown
+NW.NCA.SACO.PC,"Nonrenewable natural capital per capita, coal (real chained 2019 US$)",Unknown
+NW.NCA.SACO.TO,"Nonrenewable natural capital, coal (real chained 2019 US$)",Unknown
+NW.NCA.SAGA.PC,"Nonrenewable natural capital per capita, natural gas (real chained 2019 US$)",E
+NW.NCA.SAGA.TO,"Nonrenewable natural capital, natural gas (real chained 2019 US$)",E
+NW.NCA.SAOI.PC,"Nonrenewable natural capital per capita, oil (real chained 2019 US$)",Unknown
+NW.NCA.SAOI.TO,"Nonrenewable natural capital, oil (real chained 2019 US$)",Unknown
+NW.NCA.SSOI.PC,"Nonrenewable natural capital per capita, total (real chained 2019 US$)",Unknown
+NW.NCA.SSOI.TO,"Nonrenewable natural capital, total (real chained 2019 US$)",Unknown
+NW.NCA.TOTL.PC,"Renewable natural capital per capita, total (real chained 2019 US$)",Unknown
+NW.NCA.TOTL.TO,"Renewable natural capital, total (real chained 2019 US$)",Unknown
+NW.NFA.PC,Foreign assets per capita (real chained 2019 US$),Unknown
+NW.NFA.TO,Foreign assets (real chained 2019 US$),Unknown
+NW.NFL.PC,Foreign liabilities per capita (real chained 2019 US$),Unknown
+NW.NFL.TO,Foreign liabilities (real chained 2019 US$),Unknown
+NW.PCA.PC,Produced capital per capita (real chained 2019 US$),Unknown
+NW.PCA.TO,Produced capital (real chained 2019 US$),Unknown
+NW.TOW.PC,National comprehensive wealth per capita index (real chained 2019 US$),Unknown
+NW.TOW.TO,National comprehensive wealth index (real chained 2019 US$),Unknown
+SH.STA.OWAD.ZS,Prevalence of overweight (% of adults),S
+EN.CLC.CSTP.ZS,Coastal protection,E
+AG.LND.FRLS.HA,Tree Cover Loss,E
+AG.LND.PFLS.HA,Primary Forest Loss,E
+EN.CLC.CDDY.XD,Cooling Degree Days,E
+EN.CLC.HDDY.XD,Heating Degree Days,E
+EN.CLC.HEAT.XD,Heat Index 35,E
+EN.H2O.BDYS.ZS,Proportion of bodies of water with good ambient water quality,E
+EN.CLC.SPEI.XD,Standardised Precipitation-Evapotranspiration Index,E
+SD.ESR.PERF.XQ,Economic and Social Rights Performance Score,E
+EN.LND.LTMP.DC,Land Surface Temperature,E
+SL.UEM.NEET.ME.ZS,"Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)",S
+SL.UEM.NEET.FE.ME.ZS,"Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)",S
+SL.EMP.WORK.ZS,"Wage and salaried workers, total (% of total employment) (modeled ILO estimate)",S
+SL.EMP.WORK.FE.ZS,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)",S

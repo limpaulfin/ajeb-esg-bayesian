@@ -1,0 +1,19 @@
+# Authors - AJEB ESG Bayesian Paper
+# Updated: 2026-03-09
+
+1. Lâm Hoàng Dũng
+   Affiliation: School of Energy Systems, LUT University, Finland
+   Email: andydungbmt123@gmail.com
+
+2. Nguyễn Văn Đạt (Corresponding Author) *
+   Affiliation: Khoa Quản trị kinh doanh, Trường Đại học Ngân hàng TP. Hồ Chí Minh
+   Email: dat.nv@hub.edu.vn
+
+3. Lâm Thanh Phong
+   Affiliation: Khoa Hệ thống thông tin quản lý, Trường Đại học Ngân hàng TP. Hồ Chí Minh
+   Email: 020201240024@st.buh.edu.vn
+
+4. Bùi Nguyễn Phương Dung
+   Affiliation: Khoa Quản trị Kinh doanh, Trường Đại học Công Thương TP. Hồ Chí Minh
+   Email: 1013250040@huit.edu.vn
+   ORCID: 0009-0001-0521-146X

@@ -1,0 +1,25 @@
+{
+  "modified_wald": {
+    "statistic": 74.19537832792872,
+    "df": 9,
+    "p_value": 2.2778445796234337e-12,
+    "heteroskedasticity": true
+  },
+  "wooldridge": {
+    "rho": 0.2681999379050597,
+    "t_stat": 6.534981878162358,
+    "p_value": 1.4502510303771032e-10,
+    "autocorrelation": true
+  },
+  "breusch_pagan_lm": {
+    "lm_stat": 89.46355875772961,
+    "p_value": 0.0,
+    "random_effects": true
+  },
+  "summary": {
+    "hetero_detected": true,
+    "auto_detected": true,
+    "re_significant": true,
+    "recommendation": "Use REM with cluster-robust SE"
+  }
+}
